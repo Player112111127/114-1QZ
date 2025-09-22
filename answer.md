@@ -1,8 +1,8 @@
 # 第1次作業-作業-HW1
 >
->學號：1234567
+>學號：112111127
 ><br />
->姓名：王小明
+>姓名：呂喬詠
 ><br />
 >作業撰寫時間：180 (mins，包含程式撰寫時間)
 ><br />
@@ -31,28 +31,15 @@ public void mt_getResult(){
 若要於內文中標示部分網頁檔，則使用以下標籤` ```html 程式碼 ``` `，
 下段程式碼則為使用後結果：
 
-```html
-<%@ Page Language="C#" AutoEventWireup="true" ...>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" ...>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
-
-請在撰寫"說明程式與內容"該塊內容，請把原該塊內上述敘述刪除，該塊上述內容只是用來指引該怎麼撰寫內容。
 
 1. 請實作同名稱檔案並將程式碼實作並印出其結果，其內容為Topic 1 投影片的第12~13頁。
 
-Ans:
+Ans: 第1次隨堂
+```js
+var hello = "Hello World";
+var hello2 = "Hello World";
+var hello3 = "Hello World";
+console.log(hello,hello2,hello3);
+
+```
+![alt text](image.png)
